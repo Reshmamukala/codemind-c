@@ -10,7 +10,7 @@ int main()
         sum+=a;
         i=i/10;
     }
-    if(sum==n)
+    if (sum==n)
     {
         printf("Neon Number");
     }
